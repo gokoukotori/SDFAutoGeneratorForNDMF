@@ -1,0 +1,12 @@
+{
+  "name": "com.gokoukotori.sdf-auto-generator.ndmf",
+  "displayName": "SDF Auto Generator For NDMF",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "VRChat アバターのビルド時に、lilToon の SDF 影マスク (_ShadowStrengthMask) を自動生成する NDMF プラグイン。必要環境: NDMF 1.15.0 以上、lilToon 2.x。",
+  "license": "MPL-2.0",
+  "author": {
+    "name": "GokouKotori"
+  },
+  "dependencies": {}
+}
